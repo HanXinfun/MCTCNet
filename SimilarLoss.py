@@ -66,7 +66,7 @@ class SimilarLossCalculator(nn.Module):
         return total_loss / (2 * num_embeddings * (num_embeddings - 1))
 
 
-    def calculate_infoloob_loss(self, x_all):
+    def calculate_similar_loss(self, x_all):
         N = x_all[0].size(0)
         
         U_embeddings_list = []
