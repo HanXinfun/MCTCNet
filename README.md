@@ -1,7 +1,7 @@
 # MCTCNet and CVLSC-10m dataset
 
 ## MCTCNet
-<img width="856" alt="image" src="https://github.com/user-attachments/assets/550ca61a-5345-470d-a074-0b2a8bc28636">
+<img width="856" alt="image" src="model.png">
 
 ## CVLSC-10m dataset
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/6637cc3f-ae07-4528-b1fd-3a1582862e9d">
